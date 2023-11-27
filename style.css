@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital@1&display=swap');
+body{
+    background-color:midnightblue;
+    color: cornflowerblue;
+}
+
+.avatar{
+    width: 200px;
+    border-radius: 40%;
+    border: 5px solid rgb(11, 11, 55);
+    box-shadow: 8px 8px 28px rgb(11, 11, 55, 0.99);
+}
+
+.social{
+    padding: 5px;
+    background:rgb(11, 11, 55);
+    border: 5px solid rgb(38, 38, 152);
+}
+.container{
+    max-width: 750px;
+    margin: 50px;;
+}
+.bio{
+    padding: 5px;
+    background:rgb(11, 11, 55);
+    border: 5px solid rgb(38, 38, 152);
+}
